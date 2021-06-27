@@ -1,6 +1,16 @@
 # AcCELLerate
 Using Machine Learning for Nuclei detection in order to accelerate medical discovery, drug discovery &amp; cures for diseases
 
+<p align="center">
+<img src="gallery.jpeg" width="600"/><br/>
+This is the test set. Rows alternate from input image to predicted image
+</p>
+
+<p align="center">
+<img src="gallery2.jpeg" width="600"/><br/>
+This is the training set. Rows alternate from ground truth to predicted image
+</p>
+
 ## Inspiration
 
 Why don't we have immortality? What are so many people still plagued with diseases? I mean, we're in the 21st century right - why are we still infested with the same diseases that our ancestors had to deal with for thousands of years?
